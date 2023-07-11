@@ -12,3 +12,4 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+webcamp[HTML・CSSを学ぼう]第五章の演習課題が完了しました。
